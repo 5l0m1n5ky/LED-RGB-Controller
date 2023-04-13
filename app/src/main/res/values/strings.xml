@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RGBcontroller</string>
+    <string name="speedLabel">SPEED</string>
+    <string name="brightnessLabel">BRIGHTNESS</string>
+    <string name="fadeSwitch">FADE</string>
+    <string name="flashSwitch">FLASH</string>
+</resources>
